@@ -1,0 +1,1 @@
+This project is an example of consuming  Web Service using ASP.NET
